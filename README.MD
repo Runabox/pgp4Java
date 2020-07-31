@@ -22,8 +22,7 @@ pgp4Java WILL have:
 - [ ] Support for downloading keys
 - [x] A better looking GUI
 - [ ] Support for encrypting / decrypting files
-
-- User requested features
+- [x] User requested features
 
 ## Debugging:
 
