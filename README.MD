@@ -1,8 +1,8 @@
 # pgp4Java
 
-pgp4Java is an open source PGP manager tool.
+pgp4Java is an open source PGP manager tool built on Java.
 
-pgp4Java requires Java 14! [Download](https://download.oracle.com/otn-pub/java/jdk/14.0.2+12/205943a0976c4ed48cb16f1043c5c647/jdk-14.0.2_windows-x64_bin.exe)
+This means it requires Java 14 to run! [Download](https://download.oracle.com/otn-pub/java/jdk/14.0.2+12/205943a0976c4ed48cb16f1043c5c647/jdk-14.0.2_windows-x64_bin.exe)
 
 ## Features:
 
