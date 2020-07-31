@@ -35,7 +35,7 @@ Open a command prompt in the folder the .jar is located in and run:
 This will open pgp4Java but leave a command prompt open.
 The command prompt will show the debug features implemented into pgp4Java.
 
-Contact Runabox#0001 on discord for further questions
+[Join](https://discord.gg/qj5VzaZ) my discord for further questions.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
